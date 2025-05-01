@@ -197,6 +197,22 @@ GNSS-R transforms environmental monitoring by repurposing existing GNSS signals.
 - **Generated Content**: Tasks 1, 4, and 5 were authored using Grok-3.  
 - **Prompt Examples**:  
   ```plaintext
-  Task 1: "Compare pros/cons of DGNSS, RTK, PPP, PPP-RTK for smartphones."  
-  Task 4: "Discuss challenges of LEO satellites for GNSS navigation."  
-  Task 5: "Explain GNSS-R's impact in remote sensing, focusing on aviation."  
+GEN-AI Information of Task 1,4,5
+Model: Grok-3
+Prompt: 
+Task 1
+You are a talent in GNSS. please write a short essay in 500 words to compare the pros and cons for the following GNSS techniques: Differential GNSS (DGNSS), Real-Time Kinematic (RTK), Precise Point Positioning (PPP), and PPP-RTK for smartphone navigation. Please use a specific example in each GNSS techniques to demonstrate the pros. The limitation of total words can up to 700 .
+Task 4
+Low Earth Orbit (LEO) satellites are widely used for communication purposes but using them for navigation presents unique challenges. Write a short essay in 500 words discussing the difficulties and challenges of using LEO communication satellites for GNSS navigation. Please use the specific example in real life to illustrate the challenge. You can also extend the total words to around 700 for more clear explanation.
+Task 5
+Global Navigation Satellite Systems (GNSS) are not only used for positioning and
+navigation but also have significant applications in remote sensing. Write a short essay
+500 words discussing how the impact of GNSS in remote sensing, please select one of the topics in the lecture (GNSS-R, GNSS-IR, or GNSS-RO) to discuss. Please explain more regarding to the impact. The words limitation can go up to 700. Any impact in aviation ?
+Comment : 
+1.	addressing basic informational inquiries provide notable benefits in precision and timeliness. 
+2.	drawing from extensive information resources to offer current and well-verified answers, reducing reliance on potentially error-prone manual research.  
+3.	respond to questions within seconds, consistently delivering uniform explanations regardless of query frequency. 
+4.	Language adaptability features enable cross-cultural accessibility, while continuous availability ensures uninterrupted service. 
+5.	By focusing on authoritative references and excluding extraneous content, such systems simplify finding accurate answers for diverse needs, from academic studies to everyday problem-solving. 
+Chatroom link (if any): hthttps://grok.com/share/c2hhcmQtMg%3D%3D_f7728e99-efd2-4164-b7a9-f355ae1ad624
+
